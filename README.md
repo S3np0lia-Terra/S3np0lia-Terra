@@ -11,6 +11,7 @@ Welcome! I'm a professional translator specializing in **medical** and **pharmac
 - [English version](https://senpolia-translations.pages.dev/)
 - [Ukrainian version](https://senpolia-translations.pages.dev/ua/)
 - [Russian version](https://senpolia-translations.pages.dev/ru/)
+
 You can learn more about my work and services on the website.
 
 ---
